@@ -1,0 +1,2 @@
+Hello, World
+I am glad to be learning web development on Odin Project.
